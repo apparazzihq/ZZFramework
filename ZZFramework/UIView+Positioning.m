@@ -51,6 +51,18 @@
     return self.frame.origin.y;
 }
 
+- (void)setX:(CGFloat)x {
+    CGRect frame = self.frame;
+    frame.origin.x = x;
+    self.frame = frame;
+}
+
+- (void)setY:(CGFloat)y {
+    CGRect frame = self.frame;
+    frame.origin.y = y;
+    self.frame = frame;
+}
+
 - (CGSize)size {
     return self.frame.size;
 }

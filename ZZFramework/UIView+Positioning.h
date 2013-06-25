@@ -18,6 +18,8 @@
 - (CGFloat)width;
 - (CGFloat)x;
 - (CGFloat)y;
+- (void)setX:(CGFloat)x;
+- (void)setY:(CGFloat)y;
 - (CGSize)size;
 - (CGPoint)actualCenter;
 
