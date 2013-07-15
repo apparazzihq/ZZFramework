@@ -1,9 +1,9 @@
 //
 //  UILabel+Height.h
-//  VFestival
+//  ZZFramework
 //
 //  Created by Jonathan Ellis on 10/07/2013.
-//  Copyright (c) 2013 Apparazzi Limited. All rights reserved.
+//  Copyright 2013 Apparazzi Limited. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
